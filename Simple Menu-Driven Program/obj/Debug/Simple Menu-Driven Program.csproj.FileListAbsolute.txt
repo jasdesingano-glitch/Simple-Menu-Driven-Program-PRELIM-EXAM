@@ -1,0 +1,7 @@
+C:\Users\aspac\source\repos\Simple Menu-Driven Program\Simple Menu-Driven Program\bin\Debug\Simple Menu-Driven Program.exe.config
+C:\Users\aspac\source\repos\Simple Menu-Driven Program\Simple Menu-Driven Program\bin\Debug\Simple Menu-Driven Program.exe
+C:\Users\aspac\source\repos\Simple Menu-Driven Program\Simple Menu-Driven Program\bin\Debug\Simple Menu-Driven Program.pdb
+C:\Users\aspac\source\repos\Simple Menu-Driven Program\Simple Menu-Driven Program\obj\Debug\Simple Menu-Driven Program.csproj.AssemblyReference.cache
+C:\Users\aspac\source\repos\Simple Menu-Driven Program\Simple Menu-Driven Program\obj\Debug\Simple Menu-Driven Program.csproj.CoreCompileInputs.cache
+C:\Users\aspac\source\repos\Simple Menu-Driven Program\Simple Menu-Driven Program\obj\Debug\Simple Menu-Driven Program.exe
+C:\Users\aspac\source\repos\Simple Menu-Driven Program\Simple Menu-Driven Program\obj\Debug\Simple Menu-Driven Program.pdb
